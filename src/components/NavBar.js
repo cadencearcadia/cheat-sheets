@@ -12,7 +12,7 @@ function NavBar() {
     <nav className="navbar">
       {/* Logo */}
       <div className="logo">
-        <Link to="/" onClick={closeMenu}>CheatSheets</Link>
+        <Link to="/" onClick={closeMenu}>DOC Castle</Link>
       </div>
 
       {/* Hamburger Icon for Mobile */}
